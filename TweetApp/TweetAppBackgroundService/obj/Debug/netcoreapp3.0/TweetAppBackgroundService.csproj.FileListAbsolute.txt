@@ -1,0 +1,10 @@
+F:\Task\TweetApp\TweetAppBackgroundService\bin\Debug\netcoreapp3.0\TweetAppBackgroundService.deps.json
+F:\Task\TweetApp\TweetAppBackgroundService\bin\Debug\netcoreapp3.0\TweetAppBackgroundService.dll
+F:\Task\TweetApp\TweetAppBackgroundService\bin\Debug\netcoreapp3.0\TweetAppBackgroundService.pdb
+F:\Task\TweetApp\TweetAppBackgroundService\obj\Debug\netcoreapp3.0\TweetAppBackgroundService.AssemblyInfoInputs.cache
+F:\Task\TweetApp\TweetAppBackgroundService\obj\Debug\netcoreapp3.0\TweetAppBackgroundService.AssemblyInfo.cs
+F:\Task\TweetApp\TweetAppBackgroundService\obj\Debug\netcoreapp3.0\TweetAppBackgroundService.dll
+F:\Task\TweetApp\TweetAppBackgroundService\obj\Debug\netcoreapp3.0\TweetAppBackgroundService.pdb
+F:\Task\TweetApp\TweetAppBackgroundService\bin\Debug\netcoreapp3.0\TweetAppBackgroundService.runtimeconfig.json
+F:\Task\TweetApp\TweetAppBackgroundService\bin\Debug\netcoreapp3.0\TweetAppBackgroundService.runtimeconfig.dev.json
+F:\Task\TweetApp\TweetAppBackgroundService\obj\Debug\netcoreapp3.0\TweetAppBackgroundService.csprojAssemblyReference.cache

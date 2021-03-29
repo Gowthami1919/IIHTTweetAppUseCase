@@ -1,0 +1,17 @@
+Create database [TweetAppUseCase;
+
+USE [TweetAppUseCase]
+
+CREATE TABLE [dbo].[Tweets](
+	[Id] [int] IDENTITY(1,1) NOT NULL,
+	[userId] [varchar](50) NOT NULL,
+	[userName] [varchar](255) NOT NULL,
+	[tweets] [varchar](255) NOT NULL,
+
+CREATE TABLE [dbo].[Users](
+	[firstname] [varchar](255) NOT NULL,
+	[lastname] [varchar](255) NULL,
+	[gender] [varchar](10) NOT NULL,
+	[DOB] [date] NULL,
+	[emailID] [varchar](50) NOT NULL,
+	[password] [varchar](25) NOT NULL
